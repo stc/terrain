@@ -1,2 +1,2 @@
-# terrain
+# *terrain*
 Environmentally Conscious Generative Art 
